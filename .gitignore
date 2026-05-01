@@ -1,0 +1,20 @@
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
